@@ -144,6 +144,6 @@ where "c:\log.txt" is the path to the file with the miner's logs<br/>
 # Social Networks
 
 BitcoinTalk: https://bitcointalk.org/index.php?topic=5034735.0</br>
-Discord: https://discord.gg/XCrSf8MZK5</br>
+Discord: https://discord.gg/23ps9AmzND
 Telegram chat: https://t.me/gminer_talk</br>
 Telegram announcements: https://t.me/gminer_releases</br>
